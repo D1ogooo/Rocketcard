@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <title>Projeto - API github</title>
+  </head>
+  <body>
+    <main>
+      <div class="container">
+        <div class="pai">
+          <div class="celular_capa_pai">
+            <div class="title">
+              <div class="image">
+                <img src="/assets/logo.svg" alt="logo-header" />
+              </div>
+              <p>Diogo maçal</p>
+            </div>
+            <div class="main-image">
+              <img src="/119339116.png" alt="" />
+            </div>
+            <div class="main-card-text"></div>
+            <div class="main-footer">
+              <img src="/assets/logo.svg" alt="logo-footer" />
+              <p>ROCKETCARD</p>
+            </div>
+            <div class="mini-card">
+              <div class="mini-card-filho">
+                <img src="/assets/followers.svg" alt="followers-icon" />
+                <p id="content_API_followers"></p>
+                <p>Seguidores</p>
+              </div>
+              <div class="mini-card-filho">
+                <img src="/assets/following.svg" alt="following-icon" />
+                <p id="content_API_following"></p>
+                <p>Seguindo</p>
+              </div>
+              <div class="mini-card-filho">
+                <img src="/assets/repository.svg" alt="repository-icon" />
+                <p id="content_API_repository"></p>
+                <p>Repositórios</p>
+              </div>
+              <div class="mini-card-filho">
+                <img src="/assets/location.svg" alt="location-icon" />
+                <p id="content_API_location"></p>
+              </div>
+            </div>
+          </div>
+
+          <div class="conteudo-direito">
+            <p>Customizar Rocketcard</p>
+            <button onclick="changeBackground()">
+              <p>Gerar background</p>
+            </button>
+          </div>
+        </div>
+      </div>
+    </main>
+    <script src="/index.js"></script>
+  </body>
+</html>
