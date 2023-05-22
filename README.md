@@ -5,7 +5,7 @@
 ## 💻 Projeto
 
 Esse projeto é um card que consome a API do github com as informações do usuário
-
+você pode visitar o site através do link: https://rocketcard-five.vercel.app/
 
 ## 🚀 Tecnologias
 
