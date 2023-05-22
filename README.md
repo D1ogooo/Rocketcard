@@ -13,6 +13,8 @@ Esse projeto foi feito no NLW da Rocketseat, foi feito no explorer para pessoas 
 
 - HTML
 - CSS
+- Javascript
+- node.js
 - Git e Github
 
 
