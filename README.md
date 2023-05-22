@@ -4,12 +4,10 @@
 
 ## 💻 Projeto
 
-O projeto é uma cápsula do tempo para exibir memórias em uma linha do tempo
+Esse projeto é um card que consome a API do github com as informações do usuário
 
 
 ## 🚀 Tecnologias
-
-Esse projeto foi feito no NLW da Rocketseat, foi feito no explorer para pessoas que estão iniciando na área
 
 - HTML
 - CSS
