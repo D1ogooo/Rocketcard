@@ -12,8 +12,9 @@ você pode visitar o site através do link: https://rocketcard-five.vercel.app/
 - HTML
 - CSS
 - Javascript
-- Node.js
 - Git e Github
+
+Para comunicação com a API foi usado o Axios
 
 
 ## 🏷️ Layout
